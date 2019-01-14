@@ -19,7 +19,7 @@ public class Calculator {
         return  result3;
         }
 
-        public static double hop (double a, double b, double c) { //просто попробовал назвать метод произвольно "hop" - роде сработало)))))
+        public static double hop (double a, double b, double c) { //просто попробовал назвать метод произвольно "hop" - вроде сработало)))))
         double result4 = (a - b*c)/(a + b)%c;
         return  result4;
     }
